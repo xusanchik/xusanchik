@@ -1,9 +1,9 @@
 ###
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+my+name+is;+Asadulloh+😁">
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+my+name+is;+Husan+😁">
 </h3>
 
 <!--
-Akramjon009/Akramjon009 is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
 <div id="badges">
-  <a href="https://www.instagram.com/asadullokh_27_27/">
+  <a href="https://www.instagram.com/husanc11k/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a> 
-  <a href="https://t.me/asadullokh_27">
+  <a href="https://t.me/Husanc11k">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/asadulloh-tojiyev-695649292/">
+  <a href="https://www.linkedin.com/in/samadov-husan-5419582b0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
